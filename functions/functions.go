@@ -1,7 +1,7 @@
 package main
 
 import "fmt"
-func double(x int) int{
+func  double(x int) int{
 	return x+x
 }
 func add(lhs,rhs int) int{
