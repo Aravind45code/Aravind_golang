@@ -12,6 +12,7 @@ func main(){
 	 var sum int
 	 fmt.Println("The sum is",sum)
 	 part1,other:=1,5
+	 
 	 fmt.Println("the part1 is",part1," and the other one is",other)
 	 part2,other:=9,0
 	 fmt.Println("the part2 is ",part2,"the other one is",other)
